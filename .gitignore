@@ -2,5 +2,5 @@
 /src/app.js
 
 .idea
-.node_modules
+node_modules
 .envrc
