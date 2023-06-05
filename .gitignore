@@ -1,2 +1,6 @@
 # Project exclude paths
 /src/app.js
+
+.idea
+.node_modules
+.envrc
